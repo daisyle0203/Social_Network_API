@@ -43,7 +43,7 @@ npm start
 ## Demo :
 
 ---
-[Click here to watch the demo on Screencastify!](https://drive.google.com/file/d/1EbSMsSYcyr0RTq2La5wsYER13MjQdP6S/view)
+[Click here to watch the demo on Screencastify!](https://drive.google.com/file/d/1EbSMsSYcyr0RTq2La5wsYER13MjQdP6S/view?usp=sharing)
 
 ## License:
 
